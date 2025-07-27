@@ -1,0 +1,30 @@
+{
+  "generated_at": "2025-07-27T11:05:51.635Z",
+  "total_images": 3,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO-1024x609.png",
+      "file_path": "public/images/logo-line-house.png",
+      "file_name": "logo-line-house.png",
+      "description": "A minimalist line-drawn logo depicting a house outline in green, with subtle lighter green highlights on the door and windows.",
+      "suggested_usage": "Primary website logo, suitable for header.",
+      "size_bytes": 116158
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1-1024x576.jpg",
+      "file_path": "public/images/project-tanvald-finished-house.jpg",
+      "file_name": "project-tanvald-finished-house.jpg",
+      "description": "Exterior view of a newly renovated, dark-roofed house with white lower facade and dark upper facade, set against a backdrop of green hills and trees. A person is visible near the side of the house.",
+      "suggested_usage": "Project showcase image, potentially in a gallery or services section.",
+      "size_bytes": 167094
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-rdpo-modern-house.jpg",
+      "file_name": "project-rdpo-modern-house.jpg",
+      "description": "A modern, newly constructed or renovated house with a dark grey tiled roof and white facade, positioned along a street with two cars parked in front. The sky is partly cloudy.",
+      "suggested_usage": "Project showcase image, gallery item.",
+      "size_bytes": 558411
+    }
+  ]
+}
